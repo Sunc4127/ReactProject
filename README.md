@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. npm i -g create-react-ap
+1. npm i -g create-react-app
 -- i stands for install
 -- -g stands for global
 
